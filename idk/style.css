@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'Cookiemonster';
+  src: url('./fonts/Cookiemonster-gv11.ttf');
+}
+
 html,body{
-    height:100%
+    height:100%;
+    font-family: "Cookiemonster";
+    margin: 0;
   }
   
   .bg_heart {
