@@ -24,22 +24,22 @@
                 r.jsxs)(r.Fragment, {
                     children: [(0,
                     r.jsx)("img", {
-                        src: "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
+                        src: "https://i.pinimg.com/originals/2f/1e/17/2f1e173e68248d5e96f247e8219bcc42.gif"
                     }), (0,
                     r.jsx)("div", {
                         className: "text-4xl font-bold my-4 text-center",
-                        children: "Ok yay!!!"
+                        children: "yayy!"
                     })]
                 }) : (0,
                 r.jsxs)(r.Fragment, {
                     children: [(0,
                     r.jsx)("img", {
                         className: "h-[200px]",
-                        src: "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+                        src: "https://media1.giphy.com/media/U7VI2RFA6VcH2Gm7H9/giphy.gif?cid=790b7611zglqszu17qhup1xsrcxryrt2p3htg9zd5irk8u1q&ep=v1_gifs_search&rid=giphy.gif&ct=s"
                     }), (0,
                     r.jsx)("h1", {
                         className: "text-4xl my-4 text-center",
-                        children: "Will you be my Valentine?"
+                        children: "Will you be my valentine? <3"
                     }), (0,
                     r.jsxs)("div", {
                         className: "flex flex-wrap flex-col md:flex-row gap-4 items-center justify-center",
